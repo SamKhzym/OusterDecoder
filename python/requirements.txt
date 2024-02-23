@@ -1,0 +1,2 @@
+ouster-sdk[examples]
+opencv-python
